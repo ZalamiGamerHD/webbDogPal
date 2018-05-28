@@ -1,3 +1,6 @@
 # webbDogPal
-intial project to learn git and Github
+project to learn git and Github
+
 så fin
+
+en liten lokal förändring
